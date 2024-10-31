@@ -956,6 +956,8 @@ Text Sensor Components
     Nextion Text Sensor, components/text_sensor/nextion, nextion.jpg
     Tuya Text Sensor, components/text_sensor/tuya, tuya.png
     Version, components/text_sensor/version, new-box.svg, dark-invert
+    Project Version, components/text_sensor/project_version, new-box.svg, dark-invert
+    Project Name, components/text_sensor/project_name, new-box.svg, dark-invert
     WiFi Info, components/text_sensor/wifi_info, network-wifi.svg, dark-invert
     WireGuard, components/wireguard, wireguard_custom_logo.svg, dark-invert
     WL-134 Pet Tag Sensor , components/text_sensor/wl_134, fingerprint.svg, dark-invert
