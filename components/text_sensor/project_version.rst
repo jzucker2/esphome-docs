@@ -1,5 +1,5 @@
 Project Version Text Sensor
-===================
+===========================
 
 .. seo::
     :description: Instructions for setting up project version text sensors.

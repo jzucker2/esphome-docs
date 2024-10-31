@@ -1,5 +1,5 @@
 Project Name Text Sensor
-===================
+========================
 
 .. seo::
     :description: Instructions for setting up project name text sensors.
