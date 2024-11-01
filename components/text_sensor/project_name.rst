@@ -8,7 +8,7 @@ Project Name Text Sensor
 The ``project_name`` text sensor platform exposes the ESPHome Project name the firmware
 was compiled against as a text sensor.
 
-.. figure:: images/version-ui.png
+.. figure:: images/project-name-ui.png
     :align: center
 
 .. code-block:: yaml
