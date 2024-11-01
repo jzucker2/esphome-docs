@@ -8,7 +8,7 @@ Project Version Text Sensor
 The ``project_version`` text sensor platform exposes the ESPHome Project version the firmware
 was compiled against as a text sensor.
 
-.. figure:: images/version-ui.png
+.. figure:: images/project-version-detailed-ui.png
     :align: center
 
 .. code-block:: yaml
@@ -37,7 +37,10 @@ Disabling the compilation timestamp:
 
 This will, for example, change the output of the sensor from:
 
-``1.0.0-dev May 30 2024, 09:07:35`` to just ``1.0.0-dev``
+``1.9.9 Nov 1 2024, 19:49:21`` to just ``1.9.9 ``
+
+.. figure:: images/project-version-ui.png
+    :align: center
 
 
 See Also
