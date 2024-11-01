@@ -37,7 +37,7 @@ Disabling the compilation timestamp:
 
 This will, for example, change the output of the sensor from:
 
-``1.9.9 Nov 1 2024, 19:49:21`` to just ``1.9.9 ``
+``1.9.9 Nov 1 2024, 19:49:21`` to just ``1.9.9``
 
 .. figure:: images/project-version-ui.png
     :align: center
