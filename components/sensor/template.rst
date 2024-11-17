@@ -85,6 +85,7 @@ Useful Template Sensors
 Here are some useful sensors for debugging and tracking Bluetooth proxies.
 
 .. code-block:: yaml
+
     # Example configuration entry
     sensor:
       - platform: template

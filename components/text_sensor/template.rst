@@ -81,6 +81,7 @@ Useful Template Sensors
 Here are some useful text sensors for debugging and tracking project info.
 
 .. code-block:: yaml
+
     # Example configuration entry
     text_sensor:
       - platform: template
