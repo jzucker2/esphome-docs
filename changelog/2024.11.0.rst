@@ -37,6 +37,16 @@ OpenTherm
 This release brings :doc:`/components/opentherm` support to ESPHome. Please see the :doc:`documentation </components/opentherm>` for detailed information about
 it and how to use it.
 
+Release 2024.11.1 - November 22
+-------------------------------
+
+- [http_request] Fix within context with parameters. (Bugfix) :esphomepr:`7790` by :ghuser:`clydebarrow`
+- [rtttl] Clamp gain between 0 and 1 :esphomepr:`7793` by :ghuser:`jesserockz`
+- [speaker] Add missing auto-load for ``audio`` :esphomepr:`7794` by :ghuser:`jesserockz`
+- [qspi_dbi] Fix garbled graphics on RM690B0 :esphomepr:`7795` by :ghuser:`manuelkasper`
+- Check for min_version earlier in validation :esphomepr:`7797` by :ghuser:`spuder`
+- Fix for OTA mode not activating in safe_mode when OTA section has an on_xxxx action  :esphomepr:`7796` by :ghuser:`Dilbert66`
+- Ensure storage I/O for ignored devices runs in the executor :esphomepr:`7792` by :ghuser:`bdraco`
 
 Full list of changes
 --------------------

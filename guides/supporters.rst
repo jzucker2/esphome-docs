@@ -231,6 +231,7 @@ Contributors
 - `bisbastuner (@bisbastuner) <https://github.com/bisbastuner>`__
 - `Brian Kaufman (@bkaufx) <https://github.com/bkaufx>`__
 - `JDavid (@blackhack) <https://github.com/blackhack>`__
+- `Paul Blacknell (@blacknell) <https://github.com/blacknell>`__
 - `blackshoals (@blackshoals) <https://github.com/blackshoals>`__
 - `blacktirion (@blacktirion) <https://github.com/blacktirion>`__
 - `blakadder (@blakadder) <https://github.com/blakadder>`__
@@ -2029,4 +2030,4 @@ Contributors
 - `Christian Zufferey (@zuzu59) <https://github.com/zuzu59>`__
 - `Zynth-dev (@Zynth-dev) <https://github.com/Zynth-dev>`__
 
-*This page was last updated November 20, 2024.*
+*This page was last updated November 22, 2024.*
