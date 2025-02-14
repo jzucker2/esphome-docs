@@ -22,6 +22,7 @@ The list of available metrics can be found by directly browsing your node under
     # Activates prometheus /metrics endpoint
     prometheus:
 
+
 Configuration variables:
 ------------------------
 
