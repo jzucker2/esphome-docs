@@ -63,7 +63,7 @@ Supported ESPHome Components
 Supported Prometheus Labels
 ---------------------------
 
-These are some of the supported Prometheus labels supported in all metrics.
+The following labels are supported in all Prometheus metrics. Some metrics may have more labels.
 
 -  entity id
 -  entity name
