@@ -42,8 +42,8 @@ Configuration variables:
             static_configs:
               - targets: [<ip or node_name.local>]
 
-Components with Prometheus Metrics
-----------------------------------
+Supported Components
+--------------------
 
 -  Sensor
 -  Binary Sensor
