@@ -43,7 +43,7 @@ Configuration variables:
               - targets: [<ip or node_name.local>]
 
 Supported ESPHome Components
---------------------
+----------------------------
 
 -  Sensor
 -  Binary Sensor
