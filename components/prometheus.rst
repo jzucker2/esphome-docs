@@ -22,7 +22,6 @@ The list of available metrics can be found by directly browsing your node under
     # Activates prometheus /metrics endpoint
     prometheus:
 
-
 Configuration variables:
 ------------------------
 
@@ -41,6 +40,24 @@ Configuration variables:
           - job_name: esphome
             static_configs:
               - targets: [<ip or node_name.local>]
+
+Components with Prometheus Metrics
+----------------------------------
+
+-  Sensor
+-  Binary Sensor
+-  Fan
+-  Light
+-  Cover
+-  Switch
+-  Lock
+-  Text Sensor
+-  Number
+-  Select
+-  Media Player
+-  Update
+-  Valve
+-  Climate
 
 Metric Relabeling
 -----------------
