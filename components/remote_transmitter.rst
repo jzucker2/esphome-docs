@@ -73,6 +73,8 @@ ESP32 Arduino configuration variables:
       "ESP32-S2", "0, 1, 2, 3"
       "ESP32-S3", "0, 1, 2, 3"
       "ESP32-C3", "0, 1"
+      "ESP32-C6", "0, 1"
+      "ESP32-H2", "0, 1"
 
 - **clock_divider** (*Optional*, int): The clock divider used by the RMT peripheral. A clock divider of ``80`` leads to
   a resolution of 1 µs per tick, ``160`` leads to 2 µs. Allowed values are in range ``1`` to ``255``. Defaults to ``80``.
