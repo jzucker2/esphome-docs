@@ -155,6 +155,9 @@ Beta Changes
 - DHT platform now supports modules with inbuilt external resistor :esphomepr:`8257` by :ghuser:`deCodeIt`
 - Replace glyphsets with esphome_glyphsets :esphomepr:`8261` by :ghuser:`bdraco`
 - Bump aioesphomeapi to 29.1.0 :esphomepr:`8105` by :ghuser:`bdraco`
+- Bump openssh-client to 1:9.2p1-2+deb12u4 to fix docker builds :esphomepr:`8269` by :ghuser:`bdraco`
+- Increase default repeat delay for Toto remote transmitter protocol :esphomepr:`8265` by :ghuser:`G-Two`
+- Bump zeroconf to 0.145.1 :esphomepr:`8267` by :ghuser:`bdraco`
 
 All changes
 ^^^^^^^^^^^
@@ -351,6 +354,9 @@ All changes
 - DHT platform now supports modules with inbuilt external resistor :esphomepr:`8257` by :ghuser:`deCodeIt`
 - Replace glyphsets with esphome_glyphsets :esphomepr:`8261` by :ghuser:`bdraco`
 - Bump aioesphomeapi to 29.1.0 :esphomepr:`8105` by :ghuser:`bdraco`
+- Bump openssh-client to 1:9.2p1-2+deb12u4 to fix docker builds :esphomepr:`8269` by :ghuser:`bdraco`
+- Increase default repeat delay for Toto remote transmitter protocol :esphomepr:`8265` by :ghuser:`G-Two`
+- Bump zeroconf to 0.145.1 :esphomepr:`8267` by :ghuser:`bdraco`
 
 Past Changelogs
 ---------------

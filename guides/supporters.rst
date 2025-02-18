@@ -693,6 +693,7 @@ Contributors
 - `Florian Trück (@ftrueck) <https://github.com/ftrueck>`__
 - `functionpointer (@functionpointer) <https://github.com/functionpointer>`__
 - `Gábor Kiss (@g-kiss) <https://github.com/g-kiss>`__
+- `G-Two (@G-Two) <https://github.com/G-Two>`__
 - `mr G1K (@G1K) <https://github.com/G1K>`__
 - `Aljaž Srebrnič (@g5pw) <https://github.com/g5pw>`__
 - `Alex Hermann (@gaaf) <https://github.com/gaaf>`__
@@ -2081,4 +2082,4 @@ Contributors
 - `Christian Zufferey (@zuzu59) <https://github.com/zuzu59>`__
 - `Zynth-dev (@Zynth-dev) <https://github.com/Zynth-dev>`__
 
-*This page was last updated February 18, 2025.*
+*This page was last updated February 19, 2025.*
