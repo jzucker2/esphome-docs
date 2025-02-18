@@ -1537,6 +1537,7 @@ Contributors
 - `Dave (@pow4all) <https://github.com/pow4all>`__
 - `pplucky (@pplucky) <https://github.com/pplucky>`__
 - `Peter Provost (@PProvost) <https://github.com/PProvost>`__
+- `pre-commit-ci[bot] (@pre-commit-ci[bot]) <https://github.com/pre-commit-ci[bot]>`__
 - `Q. Marchi (@preeefix) <https://github.com/preeefix>`__
 - `PricelessToolkit (@PricelessToolkit) <https://github.com/PricelessToolkit>`__
 - `Francesco Ciocchetti (@primeroz) <https://github.com/primeroz>`__
@@ -2080,4 +2081,4 @@ Contributors
 - `Christian Zufferey (@zuzu59) <https://github.com/zuzu59>`__
 - `Zynth-dev (@Zynth-dev) <https://github.com/Zynth-dev>`__
 
-*This page was last updated February 17, 2025.*
+*This page was last updated February 18, 2025.*

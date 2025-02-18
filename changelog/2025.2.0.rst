@@ -153,6 +153,8 @@ Beta Changes
 - [scd30] Increase minimal CONF_UPDATE_INTERVAL from 1 to 2 seconds :esphomepr:`8256` by :ghuser:`DjordjeMandic` (breaking-change)
 - Bump zeroconf to 0.144.3 :esphomepr:`8253` by :ghuser:`bdraco`
 - DHT platform now supports modules with inbuilt external resistor :esphomepr:`8257` by :ghuser:`deCodeIt`
+- Replace glyphsets with esphome_glyphsets :esphomepr:`8261` by :ghuser:`bdraco`
+- Bump aioesphomeapi to 29.1.0 :esphomepr:`8105` by :ghuser:`bdraco`
 
 All changes
 ^^^^^^^^^^^
@@ -347,6 +349,8 @@ All changes
 - [scd30] Increase minimal CONF_UPDATE_INTERVAL from 1 to 2 seconds :esphomepr:`8256` by :ghuser:`DjordjeMandic` (breaking-change)
 - Bump zeroconf to 0.144.3 :esphomepr:`8253` by :ghuser:`bdraco`
 - DHT platform now supports modules with inbuilt external resistor :esphomepr:`8257` by :ghuser:`deCodeIt`
+- Replace glyphsets with esphome_glyphsets :esphomepr:`8261` by :ghuser:`bdraco`
+- Bump aioesphomeapi to 29.1.0 :esphomepr:`8105` by :ghuser:`bdraco`
 
 Past Changelogs
 ---------------
