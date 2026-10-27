@@ -63,9 +63,9 @@ prometheus:
 - Climate
 
 > [!NOTE]
-> The prometheus metrics for datetime based entities (datetime, date, time)
-> are in milliseconds since the Unix epoch for easy use in
-> grafana, [as mentioned in the Grafana Time Units Docs](https://grafana.com/docs/grafana/latest/visualizations/panels-visualizations/configure-standard-options/#time-format-units)
+> Date and datetime values are milliseconds since the Unix epoch, which
+> [Grafana can show as a time](https://grafana.com/docs/grafana/latest/visualizations/panels-visualizations/configure-standard-options/#time-format-units).
+> A date counts from midnight local time on that day. Time values are milliseconds since midnight.
 
 ## Supported Prometheus Labels
 
